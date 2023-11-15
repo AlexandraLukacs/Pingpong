@@ -320,7 +320,7 @@
       <Properties>
         <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
           <StringArray count="6">
-            <StringItem index="0" value="Id&#x151;pont foglal&#xe1;s"/>
+            <StringItem index="0" value="Id&#x151;pont v&#xe1;laszt&#xe1;s"/>
             <StringItem index="1" value="14-16"/>
             <StringItem index="2" value="16-18"/>
             <StringItem index="3" value="18-20"/>

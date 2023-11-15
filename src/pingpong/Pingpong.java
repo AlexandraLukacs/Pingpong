@@ -143,7 +143,7 @@ public class Pingpong extends javax.swing.JFrame {
 
         jButton1.setText("Mégse");
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Időpont foglalás", "14-16", "16-18", "18-20", "20-22", "22-0" }));
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Időpont választás", "14-16", "16-18", "18-20", "20-22", "22-0" }));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
